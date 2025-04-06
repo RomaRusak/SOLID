@@ -40,7 +40,7 @@ namespace I;
 //     }
     
 //     public function reload() {
-//         return new Exception('the knife cannot be reloade');
+//         throw new Exception('the knife cannot be reloade');
 //     }
 // }
 

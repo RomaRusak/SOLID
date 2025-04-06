@@ -93,9 +93,13 @@ class Posts {
     {
 
     }
+
+    protected function getPosts() {
+        
+    }
 }
 
-class PostsUI extends Posts {
+class PostsHTMLTemplate extends Posts {
     public function render() {
 
     }

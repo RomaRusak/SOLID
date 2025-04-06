@@ -30,7 +30,7 @@ namespace L;
 // class Penguin extends Bird {
 //     public function fly()
 //     {
-//         return new Exception('I can\'t fly');
+//         throw new Exception('I can\'t fly');
 //     }
 
 //     public function swim()
